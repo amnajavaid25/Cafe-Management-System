@@ -1,0 +1,9 @@
+
+ID :1,Item Name:Samosa,Description:,Price:10,Quantity1
+ID :2,Item Name:fries,Description:mayo fries,Price:150,Quantity10
+ID :3,Item Name:vegrolls,Description:rolls filled with aloo,Price:40,Quantity10
+ID :12,Item Name:ds,Description:ws,Price:23,Quantity34
+ID :12,Item Name:m,Description:bn,Price:12,Quantity12
+ID :12,Item Name:23,Description:34,Price:45,Quantity56
+ID :0,Item Name:,Description:,Price:-858993460,Quantity-858993460
+ID :23,Item Name:roll,Description:vegetable,Price:30,Quantity25

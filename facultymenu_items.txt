@@ -1,0 +1,5 @@
+
+ID :1,Item Name:Samosa,Description:,Price:10,Quantity1
+ID :2,Item Name:fries,Description:mayo fries,Price:150,Quantity10
+ID :3,Item Name:vegrolls,Description:rolls filled with aloo,Price:40,Quantity10
+ID :101,Item Name:chaye,Description:teabag chaye,Price:60

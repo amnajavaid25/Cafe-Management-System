@@ -1,0 +1,1 @@
+Rating ID: 1, Menu Item ID: 1, Customer ID: 1, Score: 5, Comments: it was a little bland
